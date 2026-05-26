@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+doi: 10.5281/zenodo.xxxxxxx
+message: "If you use this repository, please cite the associated manuscript."
+title: "A Low-Cost Visual Computing Framework for 3D Point Cloud Reconstruction Using Vertically Translated 2D LIDAR"
+
+authors:
+  - family-names: "Bakali El Mohamadi"
+    given-names: "Mohamed"
+
+  - family-names: "Ait Hammou"
+    given-names: "Maryem"
+
+  - family-names: "Elafi"
+    given-names: "Issam"
+
+  - family-names: "Zrira"
+    given-names: "Nabila"
+
+  - family-names: "Ouazzani-Touhami"
+    given-names: "Khadija"
+
+repository-code: "https://github.com/mbakali-elmohamadi-hub/2D-LIDAR-TO-3D-RECONSTRUCTION"
+
+abstract: >
+  Open-source implementation of a low-cost visual computing framework
+  for 3D point cloud reconstruction using a vertically translated 2D LiDAR.
+  The repository includes source code, calibration tools, hardware parameters,
+  datasets, and evaluation procedures supporting the associated manuscript.
+
+keywords:
+  - 3D Point Cloud Reconstruction
+  - 2D LiDAR
+  - Visual Computing
+  - Point Cloud Processing
+  - Geometric Calibration
+  - Computer Vision
+
+license: MIT
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Bakali El Mohamadi"
+      given-names: "Mohamed"
+    - family-names: "Ait Hammou"
+      given-names: "Maryem"
+    - family-names: "Elafi"
+      given-names: "Issam"
+    - family-names: "Zrira"
+      given-names: "Nabila"
+    - family-names: "Ouazzani-Touhami"
+      given-names: "Khadija"
+
+  title: "A Low-Cost Visual Computing Framework for 3D Point Cloud Reconstruction Using Vertically Translated 2D LIDAR"
+  journal: "The Visual Computer"
+  status: "Under Review"
+  year: 2026
