@@ -271,7 +271,7 @@ After public release, update the repository URL and Zenodo DOI in `CITATION.cff`
 
 ## Zenodo DOI Release
 
-xxxxxxxxxxx
+xxxxxxxxxxxxx
 
 ## License
 
