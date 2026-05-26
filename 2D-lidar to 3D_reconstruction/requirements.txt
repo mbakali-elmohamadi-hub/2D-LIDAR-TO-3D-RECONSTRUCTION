@@ -1,8 +1,0 @@
-# Python dependencies for point-cloud filtering and numerical processing
-numpy>=1.23
-scikit-learn>=1.2
-
-# Optional packages useful for evaluation, plotting, and extended point-cloud processing
-pandas>=1.5
-matplotlib>=3.7
-open3d>=0.17
